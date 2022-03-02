@@ -1,0 +1,16 @@
+D:\Projects\DesignPatterns\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.exe
+D:\Projects\DesignPatterns\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.deps.json
+D:\Projects\DesignPatterns\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.runtimeconfig.json
+D:\Projects\DesignPatterns\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.runtimeconfig.dev.json
+D:\Projects\DesignPatterns\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.dll
+D:\Projects\DesignPatterns\AdapterDemo\bin\Debug\netcoreapp3.1\AdapterDemo.pdb
+D:\Projects\DesignPatterns\AdapterDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.csproj.AssemblyReference.cache
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.AssemblyInfoInputs.cache
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.AssemblyInfo.cs
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.csproj.CopyComplete
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.dll
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.pdb
+D:\Projects\DesignPatterns\AdapterDemo\obj\Debug\netcoreapp3.1\AdapterDemo.genruntimeconfig.cache

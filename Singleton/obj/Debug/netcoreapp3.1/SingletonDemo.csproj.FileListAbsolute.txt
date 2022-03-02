@@ -1,0 +1,13 @@
+D:\Projects\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\SingletonDemo.exe
+D:\Projects\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\SingletonDemo.deps.json
+D:\Projects\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.json
+D:\Projects\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.dev.json
+D:\Projects\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\SingletonDemo.dll
+D:\Projects\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\SingletonDemo.pdb
+D:\Projects\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfoInputs.cache
+D:\Projects\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfo.cs
+D:\Projects\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\SingletonDemo.dll
+D:\Projects\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\SingletonDemo.pdb
+D:\Projects\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\SingletonDemo.genruntimeconfig.cache

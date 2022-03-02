@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vo+G6KQTblwdqAn+jFu4N2M9kufMpDPd9j3Af88qVWzSIhXttXb86hwmytaEZX+s7vo31aVntLG5yy+J2gYuPA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DesignPatterns\\AdapterDemo\\AdapterDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

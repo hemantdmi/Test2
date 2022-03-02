@@ -1,0 +1,14 @@
+D:\Projects\DesignPatterns\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.exe
+D:\Projects\DesignPatterns\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.deps.json
+D:\Projects\DesignPatterns\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.json
+D:\Projects\DesignPatterns\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.dev.json
+D:\Projects\DesignPatterns\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.dll
+D:\Projects\DesignPatterns\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.pdb
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.csproj.AssemblyReference.cache
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfoInputs.cache
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfo.cs
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.dll
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.pdb
+D:\Projects\DesignPatterns\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.genruntimeconfig.cache

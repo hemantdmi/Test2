@@ -1,0 +1,13 @@
+D:\Projects\DesignPatterns\BuilderDemo\bin\Debug\netcoreapp3.1\BuilderDemo.exe
+D:\Projects\DesignPatterns\BuilderDemo\bin\Debug\netcoreapp3.1\BuilderDemo.deps.json
+D:\Projects\DesignPatterns\BuilderDemo\bin\Debug\netcoreapp3.1\BuilderDemo.runtimeconfig.json
+D:\Projects\DesignPatterns\BuilderDemo\bin\Debug\netcoreapp3.1\BuilderDemo.runtimeconfig.dev.json
+D:\Projects\DesignPatterns\BuilderDemo\bin\Debug\netcoreapp3.1\BuilderDemo.dll
+D:\Projects\DesignPatterns\BuilderDemo\bin\Debug\netcoreapp3.1\BuilderDemo.pdb
+D:\Projects\DesignPatterns\BuilderDemo\obj\Debug\netcoreapp3.1\BuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPatterns\BuilderDemo\obj\Debug\netcoreapp3.1\BuilderDemo.AssemblyInfoInputs.cache
+D:\Projects\DesignPatterns\BuilderDemo\obj\Debug\netcoreapp3.1\BuilderDemo.AssemblyInfo.cs
+D:\Projects\DesignPatterns\BuilderDemo\obj\Debug\netcoreapp3.1\BuilderDemo.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatterns\BuilderDemo\obj\Debug\netcoreapp3.1\BuilderDemo.dll
+D:\Projects\DesignPatterns\BuilderDemo\obj\Debug\netcoreapp3.1\BuilderDemo.pdb
+D:\Projects\DesignPatterns\BuilderDemo\obj\Debug\netcoreapp3.1\BuilderDemo.genruntimeconfig.cache

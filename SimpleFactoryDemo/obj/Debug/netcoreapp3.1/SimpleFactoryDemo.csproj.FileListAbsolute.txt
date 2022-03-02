@@ -1,0 +1,5 @@
+D:\Projects\DesignPatterns\SimpleFactoryDemo\obj\Debug\netcoreapp3.1\SimpleFactoryDemo.csproj.AssemblyReference.cache
+D:\Projects\DesignPatterns\SimpleFactoryDemo\obj\Debug\netcoreapp3.1\SimpleFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPatterns\SimpleFactoryDemo\obj\Debug\netcoreapp3.1\SimpleFactoryDemo.AssemblyInfoInputs.cache
+D:\Projects\DesignPatterns\SimpleFactoryDemo\obj\Debug\netcoreapp3.1\SimpleFactoryDemo.AssemblyInfo.cs
+D:\Projects\DesignPatterns\SimpleFactoryDemo\obj\Debug\netcoreapp3.1\SimpleFactoryDemo.csproj.CoreCompileInputs.cache

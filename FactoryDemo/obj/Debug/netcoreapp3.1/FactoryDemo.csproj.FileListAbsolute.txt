@@ -1,0 +1,14 @@
+D:\Projects\DesignPatterns\FactoryDemo\bin\Debug\netcoreapp3.1\FactoryDemo.exe
+D:\Projects\DesignPatterns\FactoryDemo\bin\Debug\netcoreapp3.1\FactoryDemo.deps.json
+D:\Projects\DesignPatterns\FactoryDemo\bin\Debug\netcoreapp3.1\FactoryDemo.runtimeconfig.json
+D:\Projects\DesignPatterns\FactoryDemo\bin\Debug\netcoreapp3.1\FactoryDemo.runtimeconfig.dev.json
+D:\Projects\DesignPatterns\FactoryDemo\bin\Debug\netcoreapp3.1\FactoryDemo.dll
+D:\Projects\DesignPatterns\FactoryDemo\bin\Debug\netcoreapp3.1\FactoryDemo.pdb
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.csproj.AssemblyReference.cache
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.AssemblyInfoInputs.cache
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.AssemblyInfo.cs
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.dll
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.pdb
+D:\Projects\DesignPatterns\FactoryDemo\obj\Debug\netcoreapp3.1\FactoryDemo.genruntimeconfig.cache
